@@ -1,0 +1,1 @@
+Trying to predict some answers in my questonaire with help of sklearn and regression models. Subjects sexual life and romantic life gave decent prediction result.
