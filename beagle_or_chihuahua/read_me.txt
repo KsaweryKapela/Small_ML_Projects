@@ -1,1 +1,0 @@
-Algorythm checks if chichuaua or beagle is in the picture. Stanford dogs dataset was used in training.
